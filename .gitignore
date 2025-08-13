@@ -18,7 +18,5 @@ venv/
 # Python cache files
 test/
 # Logs
-config.py
-numpy_config.txt
-pytorch_config.txt
+logs/
 
