@@ -15,4 +15,10 @@ venv/
 # macOS files
 .DS_Store
 
+# Python cache files
 test/
+# Logs
+config.py
+numpy_config.txt
+pytorch_config.txt
+
